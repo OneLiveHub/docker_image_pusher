@@ -6,3 +6,11 @@ mysql
 netbirdio/signal
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
+postgres:16-alpine
+cockroachdb/cockroach:latest-v23.2
+ghcr.io/zitadel/zitadel:v2.54.3
+coturn/coturn
+netbirdio/management:latest
+netbirdio/signal:latest
+netbirdio/dashboard:latest
+unless-stopped
