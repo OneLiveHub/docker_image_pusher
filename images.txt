@@ -13,4 +13,4 @@ coturn/coturn
 netbirdio/management:latest
 netbirdio/signal:latest
 netbirdio/dashboard:latest
-unless-stopped
+caddy
